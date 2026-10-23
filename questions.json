@@ -1,0 +1,532 @@
+[
+  {
+    "question_info": "If α and β are the zeroes of polynomial 3x² + 6x + k such that α + β + αβ = −2/3, then the value of k is :\n(A) −8\n(B) 8\n(C) −4\n(D) 4",
+    "question_info_hindi": "यदि α तथा β, बहुपद 3x² + 6x + k के शून्यक हैं तथा α + β + αβ = −2/3 है, तो k का मान है :\n(A) −8\n(B) 8\n(C) −4\n(D) 4",
+    "topic": "Polynomials",
+    "topic_hindi": "बहुपद",
+    "subtopic": "Relationship between zeroes and coefficients",
+    "subtopic_hindi": "बहुपद के शून्यकों और गुणांकों के बीच संबंध",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "If x = 1 and y = 2 is a solution of the pair of linear equations 2x − 3y + a = 0 and 2x + 3y − b = 0, then :\n(A) a = 2b\n(B) 2a = b\n(C) a + 2b = 0\n(D) 2a + b = 0",
+    "question_info_hindi": "यदि x = 1 तथा y = 2, रैखिक समीकरण युग्म 2x − 3y + a = 0 तथा 2x + 3y − b = 0 का एक हल है, तो :\n(A) a = 2b\n(B) 2a = b\n(C) a + 2b = 0\n(D) 2a + b = 0",
+    "topic": "Pair of Linear Equations in Two Variables",
+    "topic_hindi": "दो चरों वाले रैखिक समीकरण युग्म",
+    "subtopic": "Solution of a pair of linear equations",
+    "subtopic_hindi": "रैखिक समीकरण युग्म का हल",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "The mid-point of the line segment joining the points P(−4, 5) and Q(4, 6) lies on :\n(A) x-axis\n(B) y-axis\n(C) origin\n(D) neither x-axis nor y-axis",
+    "question_info_hindi": "बिंदुओं P(−4, 5) तथा Q(4, 6) को मिलाने वाले रेखाखण्ड का मध्य-बिंदु स्थित है :\n(A) x-अक्ष पर\n(B) y-अक्ष पर\n(C) मूल-बिंदु पर\n(D) न x-अक्ष पर और न ही y-अक्ष पर",
+    "topic": "Coordinate Geometry",
+    "topic_hindi": "निर्देशांक ज्यामिति",
+    "subtopic": "Mid-point formula",
+    "subtopic_hindi": "मध्य-बिंदु सूत्र",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "If θ is an acute angle and 7 + 4 sin θ = 9, then the value of θ is :\n(A) 90°\n(B) 30°\n(C) 45°\n(D) 60°",
+    "question_info_hindi": "यदि θ न्यूनकोण है तथा 7 + 4 sin θ = 9 है, तो θ का मान है :\n(A) 90°\n(B) 30°\n(C) 45°\n(D) 60°",
+    "topic": "Introduction to Trigonometry",
+    "topic_hindi": "त्रिकोणमिति का परिचय",
+    "subtopic": "Trigonometric ratios of specific angles",
+    "subtopic_hindi": "विशिष्ट कोणों के त्रिकोणमितीय अनुपात",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "The value of tan²θ − ((1 / cos θ) × sec θ) is :\n(A) 1\n(B) 0\n(C) −1\n(D) 2",
+    "question_info_hindi": "tan²θ − ((1 / cos θ) × sec θ) का मान है :\n(A) 1\n(B) 0\n(C) −1\n(D) 2",
+    "topic": "Introduction to Trigonometry",
+    "topic_hindi": "त्रिकोणमिति का परिचय",
+    "subtopic": "Trigonometric identities",
+    "subtopic_hindi": "त्रिकोणमितीय सर्वसमिकाएँ",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "If HCF(98, 28) = m and LCM(98, 28) = n, then the value of n − 7m is :\n(A) 0\n(B) 28\n(C) 98\n(D) 198",
+    "question_info_hindi": "यदि HCF(98, 28) = m तथा LCM(98, 28) = n है, तो n − 7m का मान है :\n(A) 0\n(B) 28\n(C) 98\n(D) 198",
+    "topic": "Real Numbers",
+    "topic_hindi": "वास्तविक संख्याएँ",
+    "subtopic": "HCF and LCM",
+    "subtopic_hindi": "HCF और LCM",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "The tangents drawn at the extremities of the diameter of a circle are always :\n(A) parallel\n(B) perpendicular\n(C) equal\n(D) intersecting",
+    "question_info_hindi": "किसी वृत्त के व्यास के छोरों पर खींची गई स्पर्श-रेखाएँ सदैव परस्पर :\n(A) समांतर होती हैं\n(B) लंबवत होती हैं\n(C) समान होती हैं\n(D) प्रतिच्छेदी होती हैं",
+    "topic": "Circles",
+    "topic_hindi": "वृत्त",
+    "subtopic": "Tangent to a circle",
+    "subtopic_hindi": "वृत्त की स्पर्श-रेखा",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "In triangles ABC and DEF, ∠B = ∠E, ∠F = ∠C and AB = 3 DE. Then, the two triangles are :\n(A) congruent but not similar\n(B) congruent as well as similar\n(C) neither congruent nor similar\n(D) similar but not congruent",
+    "question_info_hindi": "त्रिभुज ABC तथा DEF में, ∠B = ∠E, ∠F = ∠C तथा AB = 3 DE है, तो दोनों त्रिभुज :\n(A) सर्वांगसम हैं परन्तु समरूप नहीं हैं\n(B) सर्वांगसम तथा समरूप हैं\n(C) न तो सर्वांगसम और न ही समरूप हैं\n(D) समरूप हैं परन्तु सर्वांगसम नहीं हैं",
+    "topic": "Triangles",
+    "topic_hindi": "त्रिभुज",
+    "subtopic": "Criteria for similarity of triangles",
+    "subtopic_hindi": "त्रिभुजों की समरूपता के कसौटी",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "If (−1)ⁿ + (−1)⁸ = 0, then n is :\n(A) any positive integer\n(B) any negative integer\n(C) any odd number\n(D) any even number",
+    "question_info_hindi": "यदि (−1)ⁿ + (−1)⁸ = 0 है, तो n :\n(A) कोई धन पूर्णांक है\n(B) कोई ऋण पूर्णांक है\n(C) कोई विषम संख्या है\n(D) कोई सम संख्या है",
+    "topic": "Real Numbers",
+    "topic_hindi": "वास्तविक संख्याएँ",
+    "subtopic": "Exponents and powers of integers",
+    "subtopic_hindi": "पूर्णांकों के घातांक और घात",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "Two polynomials are shown in the graph below. The number of distinct zeroes of both the polynomials is :\n(A) 3\n(B) 5\n(C) 2\n(D) 4",
+    "question_info_hindi": "नीचे दिए गए ग्राफ में, दो बहुपदों को दिखाया गया है। इन दोनों बहुपदों के भिन्न शून्यकों की संख्या है :\n(A) 3\n(B) 5\n(C) 2\n(D) 4",
+    "topic": "Polynomials",
+    "topic_hindi": "बहुपद",
+    "subtopic": "Geometrical meaning of the zeroes of a polynomial",
+    "subtopic_hindi": "बहुपद के शून्यकों का ज्यामितीय अर्थ",
+    "image_description": "Graph on x'x and y'y axes showing two parabolas. One opens downward with its vertex on the positive y-axis; the other opens upward with its vertex on the negative y-axis. They are mirror images of each other about the x-axis and cross each other exactly on the x-axis, one point on each side of the y-axis. Each parabola therefore meets the x-axis at the same two points.",
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "If the sum of first m terms of an AP is 2m² + 3m, then its second term is :\n(A) 10\n(B) 9\n(C) 12\n(D) 4",
+    "question_info_hindi": "यदि किसी समांतर श्रेढ़ी के प्रथम m पदों का योगफल 2m² + 3m है, तो इसका दूसरा पद है :\n(A) 10\n(B) 9\n(C) 12\n(D) 4",
+    "topic": "Arithmetic Progressions",
+    "topic_hindi": "समांतर श्रेढ़ियाँ",
+    "subtopic": "Sum of first n terms of an AP",
+    "subtopic_hindi": "समांतर श्रेढ़ी के प्रथम n पदों का योग",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "Mode and Mean of a data are 15x and 18x, respectively. Then the median of the data is :\n(A) x\n(B) 11x\n(C) 17x\n(D) 34x",
+    "question_info_hindi": "किन्हीं आँकड़ों के बहुलक तथा माध्य क्रमशः 15x तथा 18x हैं। तो इन आँकड़ों का माध्यक है :\n(A) x\n(B) 11x\n(C) 17x\n(D) 34x",
+    "topic": "Statistics",
+    "topic_hindi": "सांख्यिकी",
+    "subtopic": "Empirical relationship between mean, median and mode",
+    "subtopic_hindi": "माध्य, माध्यक और बहुलक के बीच संबंध",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "A card is selected at random from a deck of 52 playing cards. The probability of it being a red face card is :\n(A) 3/13\n(B) 2/13\n(C) 1/2\n(D) 3/26",
+    "question_info_hindi": "ताश की 52 पत्तों की गड्डी में से यादृच्छया एक पत्ता निकाला गया। इस पत्ते के एक लाल रंग की तस्वीर वाला पत्ता होने की प्रायिकता है :\n(A) 3/13\n(B) 2/13\n(C) 1/2\n(D) 3/26",
+    "topic": "Probability",
+    "topic_hindi": "प्रायिकता",
+    "subtopic": "Classical probability with playing cards",
+    "subtopic_hindi": "ताश के पत्तों पर आधारित प्रायिकता",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "Which of the following is a rational number between √3 and √5 ?\n(A) 1.4142387954012 ….\n(B) 2.326 (with a bar over the recurring digits)\n(C) π\n(D) 1.857142",
+    "question_info_hindi": "निम्नलिखित में से कौन-सी परिमेय संख्या √3 तथा √5 के बीच की एक संख्या है ?\n(A) 1.4142387954012 ….\n(B) 2.326 (पुनरावर्ती अंकों के ऊपर रेखा)\n(C) π\n(D) 1.857142",
+    "topic": "Real Numbers",
+    "topic_hindi": "वास्तविक संख्याएँ",
+    "subtopic": "Rational and irrational numbers",
+    "subtopic_hindi": "परिमेय और अपरिमेय संख्याएँ",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "If a sector of a circle has an area of 40π sq. units and a central angle of 72°, the radius of the circle is :\n(A) 200 units\n(B) 100 units\n(C) 20 units\n(D) 10√2 units",
+    "question_info_hindi": "यदि एक वृत्त के त्रिज्यखण्ड का क्षेत्रफल 40π वर्ग इकाई है तथा केंद्र पर बना कोण 72° है, तो वृत्त की त्रिज्या है :\n(A) 200 इकाई\n(B) 100 इकाई\n(C) 20 इकाई\n(D) 10√2 इकाई",
+    "topic": "Areas Related to Circles",
+    "topic_hindi": "वृत्तों से संबंधित क्षेत्रफल",
+    "subtopic": "Area of a sector of a circle",
+    "subtopic_hindi": "वृत्त के त्रिज्यखण्ड का क्षेत्रफल",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "In the given figure, PA is a tangent from an external point P to a circle with centre O. If ∠POB = 115°, then ∠APO is equal to :\n(A) 25°\n(B) 65°\n(C) 90°\n(D) 35°",
+    "question_info_hindi": "दी गई आकृति में, केंद्र O वाले वृत्त पर एक बाह्य बिंदु P से एक स्पर्श-रेखा PA खींची गई है। यदि ∠POB = 115° है, तो ∠APO बराबर है :\n(A) 25°\n(B) 65°\n(C) 90°\n(D) 35°",
+    "topic": "Circles",
+    "topic_hindi": "वृत्त",
+    "subtopic": "Tangent perpendicular to the radius at the point of contact",
+    "subtopic_hindi": "स्पर्श-बिंदु पर स्पर्श-रेखा त्रिज्या पर लंब होती है",
+    "image_description": "Circle with centre O. External point P on the left. Line PA touches the circle at A (top-left of the circle), so PA is a tangent. AB is a diameter passing through O, with B at the bottom-right of the circle. PO is drawn as a horizontal segment from P to O. The angle between OP and OB at O is marked 115°. Points P, A, B and O are labelled.",
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "A kite is flying at a height of 150 m from the ground. It is attached to a string inclined at an angle of 30° to the horizontal. The length of the string is :\n(A) 100√3 m\n(B) 300 m\n(C) 150√2 m\n(D) 150√3 m",
+    "question_info_hindi": "एक पतंग भूमि से 150 m की ऊँचाई पर उड़ रही है। यह जिस डोरी से जुड़ी है वह भूमि की क्षैतिज दिशा से 30° का कोण बनाती है। डोरी की लंबाई है :\n(A) 100√3 m\n(B) 300 m\n(C) 150√2 m\n(D) 150√3 m",
+    "topic": "Some Applications of Trigonometry",
+    "topic_hindi": "त्रिकोणमिति के कुछ अनुप्रयोग",
+    "subtopic": "Heights and distances (angle of elevation)",
+    "subtopic_hindi": "ऊँचाई और दूरी (उन्नयन कोण)",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "A piece of wire 20 cm long is bent into the form of an arc of a circle of radius 60/π cm. The angle subtended by the arc at the centre of the circle is :\n(A) 30°\n(B) 60°\n(C) 90°\n(D) 50°",
+    "question_info_hindi": "20 cm लंबे तार के एक टुकड़े को 60/π cm त्रिज्या वाले वृत्त की एक चाप के रूप में मोड़ा गया। इस वृत्त के केन्द्र पर चाप द्वारा अंतरित कोण है :\n(A) 30°\n(B) 60°\n(C) 90°\n(D) 50°",
+    "topic": "Areas Related to Circles",
+    "topic_hindi": "वृत्तों से संबंधित क्षेत्रफल",
+    "subtopic": "Length of an arc of a circle",
+    "subtopic_hindi": "वृत्त की चाप की लंबाई",
+    "image_description": null,
+    "question_type": "mcq"
+  },
+  {
+    "question_info": "Assertion (A): The probability of selecting a number at random from the numbers 1 to 20 is 1.\nReason (R): For any event E, if P(E) = 1, then E is called a sure event.\n(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).\n(B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).\n(C) Assertion (A) is true, but Reason (R) is false.\n(D) Assertion (A) is false, but Reason (R) is true.",
+    "question_info_hindi": "अभिकथन (A) : 1 से 20 तक की संख्याओं में से यादृच्छया एक संख्या चुनने की प्रायिकता 1 है।\nतर्क (R) : किसी घटना E के लिए, यदि P(E) = 1 है, तो E एक निश्चित घटना होती है।\n(A) अभिकथन (A) और तर्क (R) दोनों सही हैं और तर्क (R), अभिकथन (A) की सही व्याख्या करता है।\n(B) अभिकथन (A) और तर्क (R) दोनों सही हैं, परन्तु तर्क (R), अभिकथन (A) की सही व्याख्या नहीं करता है।\n(C) अभिकथन (A) सही है, परन्तु तर्क (R) ग़लत है।\n(D) अभिकथन (A) ग़लत है, परन्तु तर्क (R) सही है।",
+    "topic": "Probability",
+    "topic_hindi": "प्रायिकता",
+    "subtopic": "Sure event and probability of an event",
+    "subtopic_hindi": "निश्चित घटना और घटना की प्रायिकता",
+    "image_description": null,
+    "question_type": "assertion_reason"
+  },
+  {
+    "question_info": "Assertion (A): If we join two hemispheres of same radius along their bases, then we get a sphere.\nReason (R): Total Surface Area of a sphere of radius r is 3πr².\n(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).\n(B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of the Assertion (A).\n(C) Assertion (A) is true, but Reason (R) is false.\n(D) Assertion (A) is false, but Reason (R) is true.",
+    "question_info_hindi": "अभिकथन (A) : यदि हम समान त्रिज्या वाले दो अर्धगोलों को उनके आधारों से जोड़ते हैं, तो हमें एक गोला प्राप्त होता है।\nतर्क (R) : r त्रिज्या वाले गोले का संपूर्ण पृष्ठीय क्षेत्रफल 3πr² होता है।\n(A) अभिकथन (A) और तर्क (R) दोनों सही हैं और तर्क (R), अभिकथन (A) की सही व्याख्या करता है।\n(B) अभिकथन (A) और तर्क (R) दोनों सही हैं, परन्तु तर्क (R), अभिकथन (A) की सही व्याख्या नहीं करता है।\n(C) अभिकथन (A) सही है, परन्तु तर्क (R) ग़लत है।\n(D) अभिकथन (A) ग़लत है, परन्तु तर्क (R) सही है।",
+    "topic": "Surface Areas and Volumes",
+    "topic_hindi": "पृष्ठीय क्षेत्रफल और आयतन",
+    "subtopic": "Sphere and hemisphere (surface area)",
+    "subtopic_hindi": "गोला और अर्धगोला (पृष्ठीय क्षेत्रफल)",
+    "image_description": null,
+    "question_type": "assertion_reason"
+  },
+  {
+    "question_info": "If x cos 60° + y cos 0° + sin 30° − cot 45° = 5, then find the value of x + 2y.",
+    "question_info_hindi": "यदि x cos 60° + y cos 0° + sin 30° − cot 45° = 5 है, तो x + 2y का मान ज्ञात कीजिए।",
+    "topic": "Introduction to Trigonometry",
+    "topic_hindi": "त्रिकोणमिति का परिचय",
+    "subtopic": "Trigonometric ratios of specific angles",
+    "subtopic_hindi": "विशिष्ट कोणों के त्रिकोणमितीय अनुपात",
+    "image_description": null,
+    "question_type": "very_short_answer"
+  },
+  {
+    "question_info": "Evaluate : tan² 60° / (sin² 60° + cos² 30°)",
+    "question_info_hindi": "tan² 60° / (sin² 60° + cos² 30°) का मान ज्ञात कीजिए।",
+    "topic": "Introduction to Trigonometry",
+    "topic_hindi": "त्रिकोणमिति का परिचय",
+    "subtopic": "Trigonometric ratios of specific angles",
+    "subtopic_hindi": "विशिष्ट कोणों के त्रिकोणमितीय अनुपात",
+    "image_description": null,
+    "question_type": "very_short_answer"
+  },
+  {
+    "question_info": "Find the zeroes of the polynomial p(x) = x² + (4/3)x − 4/3.",
+    "question_info_hindi": "बहुपद p(x) = x² + (4/3)x − 4/3 के शून्यक ज्ञात कीजिए।",
+    "topic": "Polynomials",
+    "topic_hindi": "बहुपद",
+    "subtopic": "Zeroes of a quadratic polynomial",
+    "subtopic_hindi": "द्विघात बहुपद के शून्यक",
+    "image_description": null,
+    "question_type": "very_short_answer"
+  },
+  {
+    "question_info": "The coordinates of the centre of a circle are (2a, a − 7). Find the value(s) of 'a' if the circle passes through the point (11, −9) and has diameter 10√2 units.",
+    "question_info_hindi": "एक वृत्त के केंद्र के निर्देशांक (2a, a − 7) हैं। यदि यह वृत्त बिंदु (11, −9) से होकर जाता है तथा इसका व्यास 10√2 इकाई है, तो 'a' का/के मान ज्ञात कीजिए।",
+    "topic": "Coordinate Geometry",
+    "topic_hindi": "निर्देशांक ज्यामिति",
+    "subtopic": "Distance formula",
+    "subtopic_hindi": "दूरी सूत्र",
+    "image_description": null,
+    "question_type": "very_short_answer"
+  },
+  {
+    "question_info": "If ΔABC ~ ΔPQR in which AB = 6 cm, BC = 4 cm, AC = 8 cm and PR = 6 cm, then find the length of (PQ + QR).",
+    "question_info_hindi": "यदि ΔABC ~ ΔPQR है जिसमें AB = 6 cm, BC = 4 cm, AC = 8 cm तथा PR = 6 cm हैं, तो (PQ + QR) की लंबाई ज्ञात कीजिए।",
+    "topic": "Triangles",
+    "topic_hindi": "त्रिभुज",
+    "subtopic": "Similar triangles: ratio of corresponding sides",
+    "subtopic_hindi": "समरूप त्रिभुज: संगत भुजाओं का अनुपात",
+    "image_description": null,
+    "question_type": "very_short_answer"
+  },
+  {
+    "question_info": "In the given figure, QR/QS = QT/PR and ∠1 = ∠2, show that ΔPQS ~ ΔTQR.",
+    "question_info_hindi": "दी गई आकृति में, QR/QS = QT/PR तथा ∠1 = ∠2 है, तो दर्शाइए कि ΔPQS ~ ΔTQR.",
+    "topic": "Triangles",
+    "topic_hindi": "त्रिभुज",
+    "subtopic": "Similarity of triangles (SAS criterion, proof)",
+    "subtopic_hindi": "त्रिभुजों की समरूपता (SAS कसौटी, उपपत्ति)",
+    "image_description": "Applies to option (b). Triangle figure with Q at bottom-left and R at bottom-right on a horizontal base. Point S lies on QR between Q and R. Point P lies above the base on the left; T lies above P on the extension of line QP (Q, P, T are collinear). Segments PS, PR and TR are drawn. Angle 1 is marked at Q (between QR and QP) and angle 2 is marked at R (between RP and the base RQ). Points Q, S, R, P, T are labelled.",
+    "question_type": "very_short_answer"
+  },
+  {
+    "question_info": "A person is standing at P outside a circular ground at a distance of 26 m from the centre of the ground. He found that his distances from the points A and B on the ground are 10 m (PA and PB are tangents to the circle). Find the radius of the circular ground.",
+    "question_info_hindi": "एक व्यक्ति एक वृत्ताकार मैदान के केंद्र से 26 m की दूरी पर स्थित एक बाह्य बिंदु P पर खड़ा है। वह देखता है कि मैदान के दो बिंदुओं A तथा B से उसकी दूरी 10 m है (PA और PB वृत्त पर स्पर्श-रेखाएँ हैं)। वृत्ताकार मैदान की त्रिज्या ज्ञात कीजिए।",
+    "topic": "Circles",
+    "topic_hindi": "वृत्त",
+    "subtopic": "Length of tangents from an external point",
+    "subtopic_hindi": "बाह्य बिंदु से स्पर्श-रेखाओं की लंबाई",
+    "image_description": "Circle with centre O (dot). External point P on the left. PA and PB are two tangents to the circle, with A at the top and B at the bottom; each is labelled 10 m. PO is drawn as a horizontal segment through the circle to O. Radii OA and OB are drawn.",
+    "question_type": "very_short_answer"
+  },
+  {
+    "question_info": "In the given figure, O is the centre of the circle and BCD is tangent to it at C. Prove that ∠BAC + ∠ACD = 90°.",
+    "question_info_hindi": "दी गई आकृति में, O वृत्त का केंद्र है तथा BCD बिंदु C पर स्पर्श-रेखा है। सिद्ध कीजिए कि ∠BAC + ∠ACD = 90°.",
+    "topic": "Circles",
+    "topic_hindi": "वृत्त",
+    "subtopic": "Tangent perpendicular to the radius (proof)",
+    "subtopic_hindi": "स्पर्श-रेखा त्रिज्या पर लंब होती है (उपपत्ति)",
+    "image_description": "Applies to option (a). Circle with centre O (dot). A horizontal line B-C-D is tangent to the circle at C (the bottom of the circle), with an arrowhead beyond D. A line from B passes through P on the circle, then through O, and ends at A on the circle (top-right), so BA passes through the centre. C is joined to A. A dashed vertical line joins O to C. An angle at A (∠BAC) is marked with an arc. Points A, B, C, D, O, P are labelled.",
+    "question_type": "short_answer"
+  },
+  {
+    "question_info": "Prove that opposite sides of a quadrilateral circumscribing a circle subtend supplementary angles at the centre of the circle.",
+    "question_info_hindi": "सिद्ध कीजिए कि वृत्त के परिगत बने चतुर्भुज की आमने-सामने की (सम्मुख) भुजाएँ वृत्त के केंद्र पर संपूरक कोण अंतरित करती हैं।",
+    "topic": "Circles",
+    "topic_hindi": "वृत्त",
+    "subtopic": "Tangents from an external point; quadrilateral circumscribing a circle (proof)",
+    "subtopic_hindi": "बाह्य बिंदु से स्पर्श-रेखाएँ; वृत्त के परिगत चतुर्भुज (उपपत्ति)",
+    "image_description": null,
+    "question_type": "short_answer"
+  },
+  {
+    "question_info": "Prove that : tan θ / (1 − cot θ) + cot θ / (1 − tan θ) = 1 + sec θ cosec θ",
+    "question_info_hindi": "सिद्ध कीजिए कि : tan θ / (1 − cot θ) + cot θ / (1 − tan θ) = 1 + sec θ cosec θ",
+    "topic": "Introduction to Trigonometry",
+    "topic_hindi": "त्रिकोणमिति का परिचय",
+    "subtopic": "Trigonometric identities (proof)",
+    "subtopic_hindi": "त्रिकोणमितीय सर्वसमिकाएँ (उपपत्ति)",
+    "image_description": null,
+    "question_type": "short_answer"
+  },
+  {
+    "question_info": "Prove that : (sin A + cos A)/(sin A − cos A) + (sin A − cos A)/(sin A + cos A) = 2 / (2 sin² A − 1)",
+    "question_info_hindi": "सिद्ध कीजिए कि : (sin A + cos A)/(sin A − cos A) + (sin A − cos A)/(sin A + cos A) = 2 / (2 sin² A − 1)",
+    "topic": "Introduction to Trigonometry",
+    "topic_hindi": "त्रिकोणमिति का परिचय",
+    "subtopic": "Trigonometric identities (proof)",
+    "subtopic_hindi": "त्रिकोणमितीय सर्वसमिकाएँ (उपपत्ति)",
+    "image_description": null,
+    "question_type": "short_answer"
+  },
+  {
+    "question_info": "Find the ratio in which the y-axis divides the line segment joining the points (5, −6) and (−1, −4). Also find the point of intersection.",
+    "question_info_hindi": "वह अनुपात ज्ञात कीजिए जिसमें y-अक्ष बिंदुओं (5, −6) तथा (−1, −4) को मिलाने वाले रेखाखण्ड को विभाजित करता है। प्रतिच्छेदन बिंदु भी ज्ञात कीजिए।",
+    "topic": "Coordinate Geometry",
+    "topic_hindi": "निर्देशांक ज्यामिति",
+    "subtopic": "Section formula",
+    "subtopic_hindi": "विभाजन सूत्र",
+    "image_description": null,
+    "question_type": "short_answer"
+  },
+  {
+    "question_info": "Prove that 1/√5 is an irrational number.",
+    "question_info_hindi": "सिद्ध कीजिए कि 1/√5 एक अपरिमेय संख्या है।",
+    "topic": "Real Numbers",
+    "topic_hindi": "वास्तविक संख्याएँ",
+    "subtopic": "Irrational numbers (proof)",
+    "subtopic_hindi": "अपरिमेय संख्याएँ (सिद्ध कीजिए)",
+    "image_description": null,
+    "question_type": "short_answer"
+  },
+  {
+    "question_info": "A room is in the form of a cylinder surmounted by a hemispherical dome. The base radius of the hemisphere is half of the height of the cylindrical part. If the room contains 1408/21 m³ of air, find the height of the cylindrical part. (Use π = 22/7).",
+    "question_info_hindi": "एक कमरा बेलन के आकार का है जिसके ऊपर एक अर्धगोलाकार गुंबद अध्यारोपित है। अर्धगोले के आधार की त्रिज्या, बेलनाकार भाग की ऊँचाई की आधी है। यदि इस कमरे में 1408/21 m³ वायु है, तो बेलनाकार भाग की ऊँचाई ज्ञात कीजिए। (π = 22/7 प्रयोग कीजिए)",
+    "topic": "Surface Areas and Volumes",
+    "topic_hindi": "पृष्ठीय क्षेत्रफल और आयतन",
+    "subtopic": "Volume of combination of solids",
+    "subtopic_hindi": "संयुक्त ठोसों का आयतन",
+    "image_description": null,
+    "question_type": "short_answer"
+  },
+  {
+    "question_info": "Two dice are thrown at the same time. Determine the probability that the difference of the numbers on the two dice is 2.",
+    "question_info_hindi": "दो पासे एक साथ उछाले गए। दोनों पासों पर आई संख्याओं का अन्तर 2 होने की प्रायिकता ज्ञात कीजिए।",
+    "topic": "Probability",
+    "topic_hindi": "प्रायिकता",
+    "subtopic": "Probability with two dice",
+    "subtopic_hindi": "दो पासों पर आधारित प्रायिकता",
+    "image_description": null,
+    "question_type": "short_answer"
+  },
+  {
+    "question_info": "Vijay invested certain amounts of money in two schemes A and B, which offer interest at the rate of 8% per annum and 9% per annum, respectively. He received ₹1,860 as the total annual interest. However, had he interchanged the amounts of investments in the two schemes, he would have received ₹20 more as annual interest. How much money did he invest in each scheme ?",
+    "question_info_hindi": "विजय ने दो योजनाओं A तथा B में, जो क्रमशः 8% वार्षिक तथा 9% वार्षिक ब्याज देती हैं, में कुछ-कुछ राशियाँ निवेश कीं। उसे कुल ₹ 1,860 वार्षिक ब्याज प्राप्त हुआ। यद्यपि, अगर उसने दो योजनाओं में निवेश की राशियों को आपस में बदल दिया होता, तो उसे वार्षिक ब्याज ₹ 20 अधिक प्राप्त होता। ज्ञात कीजिए कि उसने प्रत्येक योजना में कितनी राशि निवेश की।",
+    "topic": "Pair of Linear Equations in Two Variables",
+    "topic_hindi": "दो चरों वाले रैखिक समीकरण युग्म",
+    "subtopic": "Word problems on simultaneous equations",
+    "subtopic_hindi": "समकालिक समीकरणों पर आधारित शाब्दिक प्रश्न",
+    "image_description": null,
+    "question_type": "long_answer"
+  },
+  {
+    "question_info": "The diagonal BD of a parallelogram ABCD intersects the line segment AE at the point F, where E is any point on the side BC. Prove that DF × EF = FB × FA.",
+    "question_info_hindi": "एक समांतर चतुर्भुज ABCD का विकर्ण BD, रेखाखण्ड AE को बिंदु F पर काटता है, जहाँ E भुजा BC पर स्थित कोई बिंदु है। सिद्ध कीजिए कि DF × EF = FB × FA.",
+    "topic": "Triangles",
+    "topic_hindi": "त्रिभुज",
+    "subtopic": "Similarity of triangles in a parallelogram (proof)",
+    "subtopic_hindi": "समांतर चतुर्भुज में त्रिभुजों की समरूपता (उपपत्ति)",
+    "image_description": null,
+    "question_type": "long_answer"
+  },
+  {
+    "question_info": "In ΔABC, if AD ⊥ BC and AD² = BD × DC, then prove that ∠BAC = 90°.",
+    "question_info_hindi": "ΔABC में, यदि AD ⊥ BC तथा AD² = BD × DC है, तो सिद्ध कीजिए कि ∠BAC = 90°.",
+    "topic": "Triangles",
+    "topic_hindi": "त्रिभुज",
+    "subtopic": "Similarity of triangles and converse of Pythagoras theorem (proof)",
+    "subtopic_hindi": "त्रिभुजों की समरूपता और पाइथागोरस प्रमेय का विलोम (उपपत्ति)",
+    "image_description": null,
+    "question_type": "long_answer"
+  },
+  {
+    "question_info": "The perimeter of a right triangle is 60 cm and its hypotenuse is 25 cm. Find the lengths of other two sides of the triangle.",
+    "question_info_hindi": "एक समकोण त्रिभुज का परिमाप 60 cm है तथा इसके कर्ण की लंबाई 25 cm है। त्रिभुज की अन्य दो भुजाओं की लंबाइयाँ ज्ञात कीजिए।",
+    "topic": "Quadratic Equations",
+    "topic_hindi": "द्विघात समीकरण",
+    "subtopic": "Quadratic equations: word problem on a right triangle",
+    "subtopic_hindi": "द्विघात समीकरण: समकोण त्रिभुज पर शाब्दिक प्रश्न",
+    "image_description": null,
+    "question_type": "long_answer"
+  },
+  {
+    "question_info": "A train travels a distance of 480 km at a uniform speed. If the speed had been 8 km/h less, then it would have taken 3 hours more to cover the same distance. Find the speed of the train.",
+    "question_info_hindi": "एक रेलगाड़ी 480 km की दूरी एकसमान चाल से तय करती है। यदि इसकी चाल 8 km/h कम होती, तो इसे वही दूरी तय करने में 3 घंटे अधिक लगते। रेलगाड़ी की चाल ज्ञात कीजिए।",
+    "topic": "Quadratic Equations",
+    "topic_hindi": "द्विघात समीकरण",
+    "subtopic": "Quadratic equations: word problem on speed, distance and time",
+    "subtopic_hindi": "द्विघात समीकरण: चाल, दूरी और समय पर शाब्दिक प्रश्न",
+    "image_description": null,
+    "question_type": "long_answer"
+  },
+  {
+    "question_info": "Find the missing frequency 'f' in the following table, if the mean of the given data is 18. Hence find the mode.\nDaily Allowance | Number of Children\n11 – 13 | 7\n13 – 15 | 6\n15 – 17 | 9\n17 – 19 | 13\n19 – 21 | f\n21 – 23 | 5\n23 – 25 | 4",
+    "question_info_hindi": "निम्नलिखित सारणी में लुप्त बारंबारता 'f' ज्ञात कीजिए, यदि दिए गए आँकड़ों का माध्य 18 है। अतः आँकड़ों का बहुलक ज्ञात कीजिए।\nदैनिक भत्ता | बच्चों की संख्या\n11 – 13 | 7\n13 – 15 | 6\n15 – 17 | 9\n17 – 19 | 13\n19 – 21 | f\n21 – 23 | 5\n23 – 25 | 4",
+    "topic": "Statistics",
+    "topic_hindi": "सांख्यिकी",
+    "subtopic": "Mean and mode of grouped data",
+    "subtopic_hindi": "समूहित आँकड़ों का माध्य और बहुलक",
+    "image_description": null,
+    "question_type": "long_answer"
+  },
+  {
+    "question_info": "A school is organizing a charity run to raise funds for a local hospital. The run is planned as a series of rounds around a track, with each round being 300 metres. To make the event more challenging and engaging, the organizers decide to increase the distance of each subsequent round by 50 metres. For example, the second round will be 350 metres, the third round will be 400 metres and so on. The total number of rounds planned is 10.\nWrite the fourth, fifth and sixth term of the Arithmetic Progression so formed.",
+    "question_info_hindi": "एक विद्यालय स्थानीय अस्पताल के लिए धन जुटाने हेतु चैरिटी दौड़ का आयोजन कर रहा है। दौड़ की योजना एक ट्रैक के चारों ओर कई चक्करों की श्रृंखला के रूप में बनाई गई है, जिसमें प्रत्येक चक्कर 300 मीटर का होगा। इस आयोजन को और अधिक चुनौतीपूर्ण व आकर्षक बनाने के लिए, आयोजकों ने अगले प्रत्येक चक्कर की दूरी को 50 मीटर बढ़ाने का फैसला किया। उदाहरण के लिए, दूसरा चक्कर 350 मीटर, तीसरा चक्कर 400 मीटर और इसी प्रकार आगे। योजनाबद्ध चक्करों की कुल संख्या 10 है।\nइस प्रकार बनी समांतर श्रेढ़ी का चौथा, पाँचवाँ तथा छठा पद लिखिए।",
+    "topic": "Arithmetic Progressions",
+    "topic_hindi": "समांतर श्रेढ़ियाँ",
+    "subtopic": "Terms of an AP from a real-life pattern",
+    "subtopic_hindi": "वास्तविक स्थिति से बनी AP के पद",
+    "image_description": "Decorative picture with no information needed to solve: ten coloured silhouettes of runners arranged in a ring around a blue circle, each running along the circle.",
+    "question_type": "case_study"
+  },
+  {
+    "question_info": "A school is organizing a charity run to raise funds for a local hospital. The run is planned as a series of rounds around a track, with each round being 300 metres. To make the event more challenging and engaging, the organizers decide to increase the distance of each subsequent round by 50 metres. For example, the second round will be 350 metres, the third round will be 400 metres and so on. The total number of rounds planned is 10.\nDetermine the distance of the 8th round.",
+    "question_info_hindi": "एक विद्यालय स्थानीय अस्पताल के लिए धन जुटाने हेतु चैरिटी दौड़ का आयोजन कर रहा है। दौड़ की योजना एक ट्रैक के चारों ओर कई चक्करों की श्रृंखला के रूप में बनाई गई है, जिसमें प्रत्येक चक्कर 300 मीटर का होगा। इस आयोजन को और अधिक चुनौतीपूर्ण व आकर्षक बनाने के लिए, आयोजकों ने अगले प्रत्येक चक्कर की दूरी को 50 मीटर बढ़ाने का फैसला किया। उदाहरण के लिए, दूसरा चक्कर 350 मीटर, तीसरा चक्कर 400 मीटर और इसी प्रकार आगे। योजनाबद्ध चक्करों की कुल संख्या 10 है।\n8वें चक्कर में तय की गई दूरी ज्ञात कीजिए।",
+    "topic": "Arithmetic Progressions",
+    "topic_hindi": "समांतर श्रेढ़ियाँ",
+    "subtopic": "nth term of an AP",
+    "subtopic_hindi": "AP का nवाँ पद",
+    "image_description": "Decorative picture with no information needed to solve: ten coloured silhouettes of runners arranged in a ring around a blue circle, each running along the circle.",
+    "question_type": "case_study"
+  },
+  {
+    "question_info": "A school is organizing a charity run to raise funds for a local hospital. The run is planned as a series of rounds around a track, with each round being 300 metres. To make the event more challenging and engaging, the organizers decide to increase the distance of each subsequent round by 50 metres. For example, the second round will be 350 metres, the third round will be 400 metres and so on. The total number of rounds planned is 10.\nFind the total distance run after completing all 10 rounds.",
+    "question_info_hindi": "एक विद्यालय स्थानीय अस्पताल के लिए धन जुटाने हेतु चैरिटी दौड़ का आयोजन कर रहा है। दौड़ की योजना एक ट्रैक के चारों ओर कई चक्करों की श्रृंखला के रूप में बनाई गई है, जिसमें प्रत्येक चक्कर 300 मीटर का होगा। इस आयोजन को और अधिक चुनौतीपूर्ण व आकर्षक बनाने के लिए, आयोजकों ने अगले प्रत्येक चक्कर की दूरी को 50 मीटर बढ़ाने का फैसला किया। उदाहरण के लिए, दूसरा चक्कर 350 मीटर, तीसरा चक्कर 400 मीटर और इसी प्रकार आगे। योजनाबद्ध चक्करों की कुल संख्या 10 है।\n10 चक्कर पूरे करने पर तय की गई कुल दूरी ज्ञात कीजिए।",
+    "topic": "Arithmetic Progressions",
+    "topic_hindi": "समांतर श्रेढ़ियाँ",
+    "subtopic": "Sum of first n terms of an AP",
+    "subtopic_hindi": "AP के प्रथम n पदों का योग",
+    "image_description": "Decorative picture with no information needed to solve: ten coloured silhouettes of runners arranged in a ring around a blue circle, each running along the circle.",
+    "question_type": "case_study"
+  },
+  {
+    "question_info": "A school is organizing a charity run to raise funds for a local hospital. The run is planned as a series of rounds around a track, with each round being 300 metres. To make the event more challenging and engaging, the organizers decide to increase the distance of each subsequent round by 50 metres. For example, the second round will be 350 metres, the third round will be 400 metres and so on. The total number of rounds planned is 10.\nIf a runner completes only the first 6 rounds, what is the total distance run by the runner ?",
+    "question_info_hindi": "एक विद्यालय स्थानीय अस्पताल के लिए धन जुटाने हेतु चैरिटी दौड़ का आयोजन कर रहा है। दौड़ की योजना एक ट्रैक के चारों ओर कई चक्करों की श्रृंखला के रूप में बनाई गई है, जिसमें प्रत्येक चक्कर 300 मीटर का होगा। इस आयोजन को और अधिक चुनौतीपूर्ण व आकर्षक बनाने के लिए, आयोजकों ने अगले प्रत्येक चक्कर की दूरी को 50 मीटर बढ़ाने का फैसला किया। उदाहरण के लिए, दूसरा चक्कर 350 मीटर, तीसरा चक्कर 400 मीटर और इसी प्रकार आगे। योजनाबद्ध चक्करों की कुल संख्या 10 है।\nयदि एक दौड़ने वाला केवल पहले 6 चक्कर पूरे कर पाए, तो उसके द्वारा तय की गई कुल दूरी ज्ञात कीजिए।",
+    "topic": "Arithmetic Progressions",
+    "topic_hindi": "समांतर श्रेढ़ियाँ",
+    "subtopic": "Sum of first n terms of an AP",
+    "subtopic_hindi": "AP के प्रथम n पदों का योग",
+    "image_description": "Decorative picture with no information needed to solve: ten coloured silhouettes of runners arranged in a ring around a blue circle, each running along the circle.",
+    "question_type": "case_study"
+  },
+  {
+    "question_info": "A brooch is a decorative piece often worn on clothing like jackets, blouses or dresses to add elegance. Made from precious metals and decorated with gemstones, brooches come in many shapes and designs. One such brooch is made with silver wire in the form of a circle with diameter 35 mm. The wire is also used in making 5 diameters which divide the circle into 10 equal sectors as shown in the figure.\nFind the central angle of each sector.",
+    "question_info_hindi": "ब्रोच एक सजावटी वस्तु है जिसे अकसर जैकेट, ब्लाउज़ या ड्रेस जैसे कपड़ों पर पहना जाता है ताकि सुंदरता बढ़ाई जा सके। बहुमूल्य धातुओं से निर्मित और रत्नों से सुसज्जित, ब्रोच कई आकार और डिज़ाइन में आते हैं। एक ऐसे वृत्ताकार ब्रोच को चाँदी के तार से बनाया गया है, जिसका व्यास 35 mm है। तार को वृत्त के 5 व्यासों को बनाने में भी प्रयुक्त किया गया है, जो उसे 10 बराबर त्रिज्यखण्डों में विभाजित करता है, जैसा कि आकृति में दर्शाया गया है।\nप्रत्येक त्रिज्यखण्ड का केंद्रीय कोण ज्ञात कीजिए।",
+    "topic": "Areas Related to Circles",
+    "topic_hindi": "वृत्तों से संबंधित क्षेत्रफल",
+    "subtopic": "Central angle of a sector",
+    "subtopic_hindi": "त्रिज्यखण्ड का केंद्रीय कोण",
+    "image_description": "Two images. (1) Decorative, not needed to solve: a 5 × 5 grid of 25 round, multi-coloured mandala-style brooches. (2) Informative: a circle divided by 5 diameters into 10 equal sectors, each sector containing small spiral decorations. Three points A, C and B are marked on the circumference in the upper-right part of the circle; C lies between A and B on the arc, so arc ACB is the arc between A and B passing through C.",
+    "question_type": "case_study"
+  },
+  {
+    "question_info": "A brooch is a decorative piece often worn on clothing like jackets, blouses or dresses to add elegance. Made from precious metals and decorated with gemstones, brooches come in many shapes and designs. One such brooch is made with silver wire in the form of a circle with diameter 35 mm. The wire is also used in making 5 diameters which divide the circle into 10 equal sectors as shown in the figure.\nFind the length of the arc ACB.",
+    "question_info_hindi": "ब्रोच एक सजावटी वस्तु है जिसे अकसर जैकेट, ब्लाउज़ या ड्रेस जैसे कपड़ों पर पहना जाता है ताकि सुंदरता बढ़ाई जा सके। बहुमूल्य धातुओं से निर्मित और रत्नों से सुसज्जित, ब्रोच कई आकार और डिज़ाइन में आते हैं। एक ऐसे वृत्ताकार ब्रोच को चाँदी के तार से बनाया गया है, जिसका व्यास 35 mm है। तार को वृत्त के 5 व्यासों को बनाने में भी प्रयुक्त किया गया है, जो उसे 10 बराबर त्रिज्यखण्डों में विभाजित करता है, जैसा कि आकृति में दर्शाया गया है।\nचाप ACB की लंबाई ज्ञात कीजिए।",
+    "topic": "Areas Related to Circles",
+    "topic_hindi": "वृत्तों से संबंधित क्षेत्रफल",
+    "subtopic": "Length of an arc of a circle",
+    "subtopic_hindi": "वृत्त की चाप की लंबाई",
+    "image_description": "Two images. (1) Decorative, not needed to solve: a 5 × 5 grid of 25 round, multi-coloured mandala-style brooches. (2) Informative: a circle divided by 5 diameters into 10 equal sectors, each sector containing small spiral decorations. Three points A, C and B are marked on the circumference in the upper-right part of the circle; C lies between A and B on the arc, so arc ACB is the arc between A and B passing through C.",
+    "question_type": "case_study"
+  },
+  {
+    "question_info": "A brooch is a decorative piece often worn on clothing like jackets, blouses or dresses to add elegance. Made from precious metals and decorated with gemstones, brooches come in many shapes and designs. One such brooch is made with silver wire in the form of a circle with diameter 35 mm. The wire is also used in making 5 diameters which divide the circle into 10 equal sectors as shown in the figure.\nFind the area of each sector of the brooch.",
+    "question_info_hindi": "ब्रोच एक सजावटी वस्तु है जिसे अकसर जैकेट, ब्लाउज़ या ड्रेस जैसे कपड़ों पर पहना जाता है ताकि सुंदरता बढ़ाई जा सके। बहुमूल्य धातुओं से निर्मित और रत्नों से सुसज्जित, ब्रोच कई आकार और डिज़ाइन में आते हैं। एक ऐसे वृत्ताकार ब्रोच को चाँदी के तार से बनाया गया है, जिसका व्यास 35 mm है। तार को वृत्त के 5 व्यासों को बनाने में भी प्रयुक्त किया गया है, जो उसे 10 बराबर त्रिज्यखण्डों में विभाजित करता है, जैसा कि आकृति में दर्शाया गया है।\nब्रोच के प्रत्येक त्रिज्यखण्ड का क्षेत्रफल ज्ञात कीजिए।",
+    "topic": "Areas Related to Circles",
+    "topic_hindi": "वृत्तों से संबंधित क्षेत्रफल",
+    "subtopic": "Area of a sector of a circle",
+    "subtopic_hindi": "वृत्त के त्रिज्यखण्ड का क्षेत्रफल",
+    "image_description": "Two images. (1) Decorative, not needed to solve: a 5 × 5 grid of 25 round, multi-coloured mandala-style brooches. (2) Informative: a circle divided by 5 diameters into 10 equal sectors, each sector containing small spiral decorations. Three points A, C and B are marked on the circumference in the upper-right part of the circle; C lies between A and B on the arc, so arc ACB is the arc between A and B passing through C.",
+    "question_type": "case_study"
+  },
+  {
+    "question_info": "A brooch is a decorative piece often worn on clothing like jackets, blouses or dresses to add elegance. Made from precious metals and decorated with gemstones, brooches come in many shapes and designs. One such brooch is made with silver wire in the form of a circle with diameter 35 mm. The wire is also used in making 5 diameters which divide the circle into 10 equal sectors as shown in the figure.\nFind the total length of the silver wire used.",
+    "question_info_hindi": "ब्रोच एक सजावटी वस्तु है जिसे अकसर जैकेट, ब्लाउज़ या ड्रेस जैसे कपड़ों पर पहना जाता है ताकि सुंदरता बढ़ाई जा सके। बहुमूल्य धातुओं से निर्मित और रत्नों से सुसज्जित, ब्रोच कई आकार और डिज़ाइन में आते हैं। एक ऐसे वृत्ताकार ब्रोच को चाँदी के तार से बनाया गया है, जिसका व्यास 35 mm है। तार को वृत्त के 5 व्यासों को बनाने में भी प्रयुक्त किया गया है, जो उसे 10 बराबर त्रिज्यखण्डों में विभाजित करता है, जैसा कि आकृति में दर्शाया गया है।\nप्रयोग की गई चाँदी के तार की कुल लंबाई ज्ञात कीजिए।",
+    "topic": "Areas Related to Circles",
+    "topic_hindi": "वृत्तों से संबंधित क्षेत्रफल",
+    "subtopic": "Circumference of a circle and length of diameters",
+    "subtopic_hindi": "वृत्त की परिधि और व्यासों की लंबाई",
+    "image_description": "Two images. (1) Decorative, not needed to solve: a 5 × 5 grid of 25 round, multi-coloured mandala-style brooches. (2) Informative: a circle divided by 5 diameters into 10 equal sectors, each sector containing small spiral decorations. Three points A, C and B are marked on the circumference in the upper-right part of the circle; C lies between A and B on the arc, so arc ACB is the arc between A and B passing through C.",
+    "question_type": "case_study"
+  },
+  {
+    "question_info": "Amrita stood near the base of a lighthouse, gazing up at its towering height. She measured the angle of elevation to the top and found it to be 60°. Then, she climbed a nearby observation deck, 40 metres higher than her original position and noticed the angle of elevation to the top of lighthouse to be 45°.\nIf CD is h metres, find the distance BD in terms of 'h'.",
+    "question_info_hindi": "अमृता एक लाइटहाउस के आधार से कुछ दूरी पर खड़ी है तथा इसके शीर्ष को देख रही है। उसने शीर्ष का उन्नयन कोण 60° पाया। तब, वह अपने प्रारंभिक स्थान से निकट 40 मीटर ऊँचे एक अवलोकन डेक पर चढ़ गई तथा वहाँ से उसने लाइटहाउस के शीर्ष का उन्नयन कोण 45° पाया।\nयदि CD की लंबाई h मीटर है, तो 'h' के पदों में दूरी BD ज्ञात कीजिए।",
+    "topic": "Some Applications of Trigonometry",
+    "topic_hindi": "त्रिकोणमिति के कुछ अनुप्रयोग",
+    "subtopic": "Heights and distances: tan 45°",
+    "subtopic_hindi": "ऊँचाई और दूरी: tan 45°",
+    "image_description": "Two images. (1) Decorative, not needed to solve: a photograph of a white lighthouse on a rocky coastal cliff above the sea. (2) Informative: a line diagram. A is at the bottom-left and E is at the bottom-right on the same horizontal line AE. B is directly above A, with the distance AB marked as 40 m. D is directly above E at the same height as B, so BD is horizontal. C is directly above D at the top of the vertical line, which runs C–D–E; CD is marked h. Line BC makes an angle of 45° at B (with BD). Line AC makes an angle of 60° at A (with AE). Points A, B, C, D, E are labelled.",
+    "question_type": "case_study"
+  },
+  {
+    "question_info": "Amrita stood near the base of a lighthouse, gazing up at its towering height. She measured the angle of elevation to the top and found it to be 60°. Then, she climbed a nearby observation deck, 40 metres higher than her original position and noticed the angle of elevation to the top of lighthouse to be 45°.\nFind distance BC in terms of 'h'.",
+    "question_info_hindi": "अमृता एक लाइटहाउस के आधार से कुछ दूरी पर खड़ी है तथा इसके शीर्ष को देख रही है। उसने शीर्ष का उन्नयन कोण 60° पाया। तब, वह अपने प्रारंभिक स्थान से निकट 40 मीटर ऊँचे एक अवलोकन डेक पर चढ़ गई तथा वहाँ से उसने लाइटहाउस के शीर्ष का उन्नयन कोण 45° पाया।\n'h' के पदों में दूरी BC ज्ञात कीजिए।",
+    "topic": "Some Applications of Trigonometry",
+    "topic_hindi": "त्रिकोणमिति के कुछ अनुप्रयोग",
+    "subtopic": "Heights and distances: sin 45°",
+    "subtopic_hindi": "ऊँचाई और दूरी: sin 45°",
+    "image_description": "Two images. (1) Decorative, not needed to solve: a photograph of a white lighthouse on a rocky coastal cliff above the sea. (2) Informative: a line diagram. A is at the bottom-left and E is at the bottom-right on the same horizontal line AE. B is directly above A, with the distance AB marked as 40 m. D is directly above E at the same height as B, so BD is horizontal. C is directly above D at the top of the vertical line, which runs C–D–E; CD is marked h. Line BC makes an angle of 45° at B (with BD). Line AC makes an angle of 60° at A (with AE). Points A, B, C, D, E are labelled.",
+    "question_type": "case_study"
+  },
+  {
+    "question_info": "Amrita stood near the base of a lighthouse, gazing up at its towering height. She measured the angle of elevation to the top and found it to be 60°. Then, she climbed a nearby observation deck, 40 metres higher than her original position and noticed the angle of elevation to the top of lighthouse to be 45°.\nFind the height CE of the lighthouse [Use √3 = 1.73]",
+    "question_info_hindi": "अमृता एक लाइटहाउस के आधार से कुछ दूरी पर खड़ी है तथा इसके शीर्ष को देख रही है। उसने शीर्ष का उन्नयन कोण 60° पाया। तब, वह अपने प्रारंभिक स्थान से निकट 40 मीटर ऊँचे एक अवलोकन डेक पर चढ़ गई तथा वहाँ से उसने लाइटहाउस के शीर्ष का उन्नयन कोण 45° पाया।\nलाइटहाउस की ऊँचाई CE ज्ञात कीजिए। [√3 = 1.73 प्रयोग कीजिए]",
+    "topic": "Some Applications of Trigonometry",
+    "topic_hindi": "त्रिकोणमिति के कुछ अनुप्रयोग",
+    "subtopic": "Heights and distances with two angles of elevation",
+    "subtopic_hindi": "दो उन्नयन कोणों वाली ऊँचाई और दूरी",
+    "image_description": "Two images. (1) Decorative, not needed to solve: a photograph of a white lighthouse on a rocky coastal cliff above the sea. (2) Informative: a line diagram. A is at the bottom-left and E is at the bottom-right on the same horizontal line AE. B is directly above A, with the distance AB marked as 40 m. D is directly above E at the same height as B, so BD is horizontal. C is directly above D at the top of the vertical line, which runs C–D–E; CD is marked h. Line BC makes an angle of 45° at B (with BD). Line AC makes an angle of 60° at A (with AE). Points A, B, C, D, E are labelled.",
+    "question_type": "case_study"
+  },
+  {
+    "question_info": "Amrita stood near the base of a lighthouse, gazing up at its towering height. She measured the angle of elevation to the top and found it to be 60°. Then, she climbed a nearby observation deck, 40 metres higher than her original position and noticed the angle of elevation to the top of lighthouse to be 45°.\nFind distance AE, if AC = 100 m.",
+    "question_info_hindi": "अमृता एक लाइटहाउस के आधार से कुछ दूरी पर खड़ी है तथा इसके शीर्ष को देख रही है। उसने शीर्ष का उन्नयन कोण 60° पाया। तब, वह अपने प्रारंभिक स्थान से निकट 40 मीटर ऊँचे एक अवलोकन डेक पर चढ़ गई तथा वहाँ से उसने लाइटहाउस के शीर्ष का उन्नयन कोण 45° पाया।\nयदि AC = 100 m है, तो दूरी AE ज्ञात कीजिए।",
+    "topic": "Some Applications of Trigonometry",
+    "topic_hindi": "त्रिकोणमिति के कुछ अनुप्रयोग",
+    "subtopic": "Heights and distances: cos 60°",
+    "subtopic_hindi": "ऊँचाई और दूरी: cos 60°",
+    "image_description": "Two images. (1) Decorative, not needed to solve: a photograph of a white lighthouse on a rocky coastal cliff above the sea. (2) Informative: a line diagram. A is at the bottom-left and E is at the bottom-right on the same horizontal line AE. B is directly above A, with the distance AB marked as 40 m. D is directly above E at the same height as B, so BD is horizontal. C is directly above D at the top of the vertical line, which runs C–D–E; CD is marked h. Line BC makes an angle of 45° at B (with BD). Line AC makes an angle of 60° at A (with AE). Points A, B, C, D, E are labelled.",
+    "question_type": "case_study"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "quizerai-ui",
+      "runtimeExecutable": "/Users/Suyash/Desktop/Quizerr/.venv/bin/python",
+      "runtimeArgs": ["ui_server.py"],
+      "port": 8000
+    }
+  ]
+}
